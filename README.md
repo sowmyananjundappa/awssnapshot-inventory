@@ -1,4 +1,4 @@
-# awssnapshot-inventory
+# aws_snapshot-inventory
 AWS Orphaned snapshot complete inventory
 
 This is genertic script to pull the orphaned snapshot inventory for AWS and provide the details to Slack Channel
